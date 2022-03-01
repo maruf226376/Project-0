@@ -11,7 +11,7 @@
             <td>
                 <table border="0" width="1300" align="center">
                     <tr>
-                        <td width="50%"><img src="image/logo.jpg"</td>
+                        <td width="50%"><img src="project/image/logo.jpg"</td>
                         <td align="right">
                             <table>
                                 <tr>
@@ -275,12 +275,12 @@
 				<br>
 				<p>CHANGE I GROW I SUCCEED</p>
 				<br><a href="https://www.facebook.com/creativeitinstitute" target="blank"><img src="image/fb.PNG"></a>
-				<a href="https://www.youtube.com/channel/UCoAYYQs4FQkKliI8dUEV2Aw"><img src="image/you.PNG"></a>
-				<a href="https://www.linkedin.com/company/creative-it-institute"><img src="image/in.PNG"></a>
+				<a href="https://www.youtube.com/channel/UCoAYYQs4FQkKliI8dUEV2Aw" target="blank"><img src="image/you.PNG"></a>
+				<a href="https://www.linkedin.com/company/creative-it-institute" target="blank"><img src="image/in.PNG"></a>
 				<br>
-				<a href="https://www.instagram.com/creativeitinstitute"><img src="image/ins.PNG"></a>
-				<a href="https://www.pinterest.com/creativeitinstitute"><img src="image/pin.PNG"></a>
-				<a href="https://www.google.com/maps/place/Creative+IT+Institute/@23.7413025,90.3825802,15z/data=!4m5!3m4!1s0x0:0xfcc5b021faff43ea!8m2!3d23.7413025!4d90.3825802"><img src="image/location.PNG"></a>
+				<a href="https://www.instagram.com/creativeitinstitute" target="blank"><img src="image/ins.PNG"></a>
+				<a href="https://www.pinterest.com/creativeitinstitute" target="blank"><img src="image/pin.PNG"></a>
+				<a href="https://www.google.com/maps/place/Creative+IT+Institute/@23.7413025,90.3825802,15z/data=!4m5!3m4!1s0x0:0xfcc5b021faff43ea!8m2!3d23.7413025!4d90.3825802" target="blank"><img src="image/location.PNG"></a>
 				
 				
 				<td align="right"><br><br><br><img src="image/location 1.PNG">
