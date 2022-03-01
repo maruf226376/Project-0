@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Creative It Institude</title>
+</head>
+<body>
+    <table border="0" width="1300" align="center"> 
+	
+	<!--First step start-->
+        <tr>
+            <td>
+                <table border="0" width="1300" align="center">
+                    <tr>
+                        <td width="50%"><img src="image/logo.jpg"</td>
+                        <td align="right">
+                            <table>
+                                <tr>
+                                    <td rowspan="2"><img src="image/capture.jpg">
+                                      
+                                 </td>
+                                 <td>
+                                    + 880 162 4666000
+                                 </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                     + 880 162 4888444
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td  align="right">
+                            <table>
+                                <tr>
+                                    <td rowspan="2"><img src="image/capture.jpg 1.PNG">
+                                      
+                                    </td>
+                                    <td>
+                                      info@creativeitinstitute.com
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                      help@creativeitinstitute.com
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+		<1
+		<!--First step finish--> 
+		
+		<!--Second step start_-->
+		 <tr>
+            <td>
+                <table border="0" width="1300" align="center">
+                    <tr>
+                        <td><a href="#"><font color="#FF0000" size="5">Home</font></a></td>
+                        <td><a href="#"><font color="#4B4949" size="5">About</font></a></td>
+                        <td><a href="#"><font color="#4B4949" size="5">Courses</font></a></td>
+                        <td><a href="#"><font color="#4B4949" size="5">Admission</font></a></td>
+                        <td><a href="#"><font color="#4B4949" size="5">Job placement</font></a></td>
+                        <td><a href="#"><font color="#4B4949" size="5">Freelancing</font></a></td>
+                        <td><a href="#"><font color="#4B4949" size="5">Other</font></a></td>
+                        <td><a href="#"><font color="#4B4949" size="5">Blog</font></a></td>
+                        <td><a href="#"><font color="#4B4949" size="5">CTG Branch</font></a></td>
+                        <td><a href="#"><font color="#4B4949"B4949 size="5">Contact</font></a></td>
+                        <td bgcolor="FF0000"><a href="#"><font color="#ffffff" size="5">Seminars</font></a></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+		<!--Second step finish_-->
+		
+		<!--Third step start-->
+		 <tr>
+            <td>
+                <table border="0">
+                    <tr>
+                        <td><img src="Image/banner.jpg" width="100%"></td> 
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table border="0" width="100%" align="center">
+                    <tr align="center">
+                        <td>
+                                <img src="Image/13 year.png">
+                                <p><font color="#4B4949">13 YEAR OF GLORY</font></p>   
+                        </td>
+                        <td>
+                            <img src="Image/achive.png">
+                            <p><font color="#4B4949">422000+ TRAINED STUDENT</font></p>
+                        </td>
+                        <td>
+                            <img src="Image/achive 1.png">
+                            <p><font color="#4B4949">15000+ JOB PLACEMENTS</font></p>
+                        </td>
+                        <td>
+                            <img src="Image/people.png">
+                            <p><font color="#4B4949">100+ EXPERT TRAINERS</font></p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+		<!--Third step finish-->
+		
+		<!--fourth step start-->
+		  <tr>
+            <td>
+                <table border="0" width="100%">
+                    <tr>
+                        <td align="center"><h1>Welcome to Creative IT Institute: Where IT Leaders are Created</h1></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td><p>Creative IT Institute, one of the leading IT training institutes in Bangladesh offers the best training opportunities. It has been playing a vital role to eradicate the unemployment problem since 2008. Enriched with quality training this institute has never failed to help the individuals to reveal their talents making harmony between creativity and IT. No matter what is your background, we are offering 30 courses for you conducted by experienced trainers to advance your skills.
+                            <br>
+                            CIT has tremendously well-decorated two campuses with upgraded equipment. Our students are very much happy with our culture, environment and outstanding training method. We are passionate about providing good service to our students. Thus, the students of this institute turn out to be successful marketers and establish their careers in various companies as well. We dedicatedly provide flexible training options such as online training, 24/7 support, lifetime post-training support, job placement and so on. We always maintain the standards of excellence which are visible on Facebook Reviews and Google Reviews.</p></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+		<!--fourth step finish-->
+		
+		<!--Fifth step start-->
+		   <tr>
+            <td>
+                <table width="100%" border="0">
+                    <tr>
+                        <td align="center">
+                            <h2><font color="#676869">Our Courses</font></h2></td>
+                    </tr>
+                    <tr>
+                        <td><p align="center"><font color="#4B4949">Explore the weapons of Latest Information Technology!</font></p></td>
+                    </tr>
+            </table>
+        </td>
+        </tr>
+		<!--Fifth step finish-->
+		
+		<!--sixth step start-->
+		  <tr>
+            <td>
+                <table width="100%">
+                    <tr>
+                        <td><img src="Image/capture.png"></td>
+                        <td>
+                            <h1>Professional Graphic Design</h1>
+                            <p>The main purpose here is to make you able to use graphic design tools and techniques in a professional way. Graphic Design helps to build brand identity of a company. Thus it needs to be conceptual an...</p>
+                        </td>
+                        <td><img src="Image/graphic.jpg"></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+		<!--sixth step finish-->
+		
+		<!--Seventh step start-->
+        <tr width="100%">
+            <td><h1 align="center"><font color="#676869">Our facilities</font></h1>
+			<br><p align="center"><font color="#4B4949">Explore the weapons of Latest Information Technology!</font></p></td>
+        </tr>
+		 <tr>
+            <td>
+                <table border="0" width="100%" align="center">
+                    <tr align="center">
+                        <td>
+                                <img src="Image/24x7.png">
+                                <h1>24/7 Online Support</h1>
+                                <p><font color="#4B4949">24/7 Online Support- We always listen to our students. Any time they are in a problem, our team is always online for providing support to them. Even at night, we are online for your projects ongoing.</font></p>   
+                        </td>
+                        <td>
+                            <img src="Image/life.png">
+                            <h1>Lifetime Support</h1>
+                            <p><font color="#4B4949">All CITI students get supports for life. For any live project get our experts' guideline and maintain it in international standard.</font></p>
+                        </td>
+                        <td>
+                            <img src="Image/practice.png">
+                            <h1>Practice Lab Support</h1>
+                            <p><font color="#4B4949">We offer lab practise facilities for weak students where they can practice the task and be able to hold the attention by solving what is not understood by them.</font></p>
+                        </td>
+                       
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table border="0" width="100%" align="center">
+                    <tr align="center">
+                        <td>
+                                <img src="Image/class.png">
+                                <h1>Class Video</h1>
+                                <p><font color="#4B4949">Get the recorded lectures and class practical as video. It will create a good storage of materials for future. And you can practice at home with the help of these materials.</font></p>   
+                        </td>
+                        <td>
+                            <img src="Image/review.png">
+                            <h1>Review Class</h1>
+                            <p><font color="#4B4949">Ensure 100% learning of tools, techniques, designs by our review classes for each batch. Better understand the difficult terms by revising every topic.</font></p>
+                        </td>
+                        <td>
+                            <img src="Image/job.png">
+                            <h1>Job Placement</h1>
+                            <p><font color="#4B4949">Acquire exclusive opportunities to work in international marketplaces as an expert freelancer. CITI creates opportunities by adding value to your career.</font></p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+		<!--Seventh step finish-->
+		
+		<!--8th step start-->
+		<tr>
+            <td>
+                <table border="0">
+                    <tr>
+                        <td><img src="Image/iso.jpg"></td> 
+                        <td><img src="Image/mou.jpg"></td> 
+                    </tr>
+                </table>
+            </td>
+        </tr>
+		<!--8th step finish-->
+		
+		<!--9th step start-->
+		
+		<tr>
+            <td>
+                <table border="0" width="100%">
+                    <tr>
+					    <h1 align="center"><font color="#676869">Creating Future Leader</font></h1>
+						<p align="center"><font color="#4B4949">We are the makers of Future Leaders!</font></p>
+                        <td><img src="Image/leader.png">
+						<img src="image/Capture ceo.PNG"></td> 
+                    
+                    </tr>
+                </table>
+            </td>
+        </tr>
+		<!--9th step finish-->
+		
+		<!--10th step start-->
+		<tr>
+            <td>
+                <table border="0" width="100%">
+                    <tr>
+                        <td><h3 align="center">We Are Working With</h3></td> 
+						<tr>
+						<td><img src="image/Capture 2.PNG"</td>
+						</tr>
+					</tr>	
+                </table>
+            </td>
+        </tr>
+		<!--10th step finish-->
+		
+		<!--11th step start-->
+		 <tr>
+            <td>
+                <table align="center" border="0" width="100%">
+                <tr>
+				<td align="center"><img src="image/footer-logo.png">
+				<br>
+				<p>CHANGE I GROW I SUCCEED</p>
+				<br><a href="https://www.facebook.com/creativeitinstitute" target="blank"><img src="image/fb.PNG"></a>
+				<a href="https://www.youtube.com/channel/UCoAYYQs4FQkKliI8dUEV2Aw"><img src="image/you.PNG"></a>
+				<a href="https://www.linkedin.com/company/creative-it-institute"><img src="image/in.PNG"></a>
+				<br>
+				<a href="https://www.instagram.com/creativeitinstitute"><img src="image/ins.PNG"></a>
+				<a href="https://www.pinterest.com/creativeitinstitute"><img src="image/pin.PNG"></a>
+				<a href="https://www.google.com/maps/place/Creative+IT+Institute/@23.7413025,90.3825802,15z/data=!4m5!3m4!1s0x0:0xfcc5b021faff43ea!8m2!3d23.7413025!4d90.3825802"><img src="image/location.PNG"></a>
+				
+				
+				<td align="right"><br><br><br><img src="image/location 1.PNG">
+				<br><br><br>
+				<img src="image/Capture.jpg">
+				<br><br><br><br><br>
+				<img src="image/Capture.jpg 1.PNG">
+				</td>
+				
+				<td><h3><font color="#3E3E3E">Contact Us</font></h3>
+				<p><b>Head Office:</b></p>
+				<p>Momtaz Plaza (4th Floor)<br>House#7, Road#4,<br>Dhanmondi, Dhaka-1205</p>
+				<br>
+				<p>
+                   +880 1624666000<br>+880 1624888444<br>+880 1966177177</p>
+				<br>
+				<p>info@creativeitinstitute.com</p></td>
+				
+				<td>
+				<h3><font color="3E3E3E">Our Coureses</h3>
+				<br>
+				<p><a href="#">Graphic Design</a>
+				<br>
+				<a href="#">Web Development</a>
+				<br>
+				<a href="#">Motion Graphics</a>
+				<br>
+				<a href="#">Interior Design</a>
+				<br>
+				<a href="#">CCNA</a>
+				<br>
+				<a href="#">Web Design</a>
+				<br>
+				<a href="#">Digital Marketing</a>
+				<br>
+				<a href="#">3D Animation</a>
+				<br>
+				<a href="#">Communicative</a>
+				</p>
+				</td>
+			    
+				<td>
+				<h3><font color="3E3E3E">Quick Links</h3>
+				<br>
+				<p><a href="#">About Us</a>
+				<br>
+				<a href="#">Gallery</a>
+				<br>
+				<a href="#">Job Placement</a>
+				<br>
+				<a href="#">Students' Feedback</a>
+				<br>
+				<a href="#">Freelancing Success</a>
+				<br>
+				<a href="#">Contact Us</a>
+				</p>
+				</td>
+            </td>
+        </tr>
+		<!--11th step finish-->
+		<tr>
+		<td>
+		<table border="0" width="100%" align="center">
+		<td> &copy;	All reserved by Mohammad Osman Goni</td>
+		</td>
+		</tr>
+	</table>	
+</body>
+</html>
